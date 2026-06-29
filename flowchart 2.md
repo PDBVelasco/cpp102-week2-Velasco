@@ -1,5 +1,4 @@
-Flowchart 2
-
+~~~mermaid
 flowchart TD
     A([Start]) --> B[Input score1]
     B --> C[Input score2]
@@ -7,3 +6,4 @@ flowchart TD
     D --> E[Compute average]
     E --> F[Display average]
     F --> G([End])
+~~~
