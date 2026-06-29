@@ -1,4 +1,3 @@
-FLOWCHART 1
 ~~~
 flowchart TD
     A([Start])
