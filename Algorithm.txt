@@ -1,0 +1,25 @@
+Problem "Create a logic design that aks for two numbers, adds them, and displays the sum
+
+Pseudocode:
+Step 1: Start
+Step 2: Input number 1, store as numb 1
+Step 3: input number 2, store as numb 2
+Step 4: process sum num 1 + num 2
+Step 5: displaty sum of num 1 and num 2
+Step 5: end
+
+Problem: "Create a logic design that asks for three quiz scores, compute the average, and display the result.
+Step 1: Start
+Step 2: Input score 1, store as score 1
+Step 3: Input score 2, store as score 2
+Step 4: input score 3, store as score 3
+Step 5: average all 3 numbers
+Step 6: display the average of all 3 numbers
+
+Problem: "Crate a logic design that asks for a number and displays whether the number is even or odd 
+Step 1: Start
+Step 2: Input number
+Step 3: Check number
+Step 4: If even, display "EVEN"
+Step 5: IF not, display "ODD"
+Step 6: END

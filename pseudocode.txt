@@ -1,0 +1,21 @@
+Start
+Input numb 1
+Input numb 2
+process sum = numb 1 + numb 2
+Display sum
+END
+
+Start
+Input score 1
+Input score 2
+input score 3
+average = (score 1 + score 2 + score 3)/ 3
+Display Average
+END 
+
+Start
+Input number
+Check number
+If even, display "EVEN"
+IF not, display "ODD"
+END
