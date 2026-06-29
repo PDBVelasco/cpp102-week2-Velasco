@@ -1,5 +1,4 @@
-FLowchart 3
-
+~~~mermaid
 flowchart TD
     A([Start]) --> B[/Input number/]
     B --> C{Is number mod 2 = 0?}
@@ -7,3 +6,4 @@ flowchart TD
     C -- No --> E[/Display "ODD"/]
     D --> F([End])
     E --> F
+~~~
